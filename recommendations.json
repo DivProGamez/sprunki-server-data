@@ -1,0 +1,37 @@
+{
+    "recommendations": [
+        {
+            "id": "rec_1",
+            "title": "FakeCall - تجربة مضحكة!",
+            "description": "مكالمة وهمية مع مؤثرات صوتية",
+            "imageUrl": "https://cdn.yoursite.com/banner1.png",
+            "tags": ["fun", "chat", "video", "prank"],
+            "priority": "HIGH"
+        },
+        {
+            "id": "rec_2",
+            "title": "رد ولا لا؟",
+            "description": "من يتصل بك فجأة؟",
+            "imageUrl": "https://cdn.yoursite.com/banner2.png",
+            "tags": ["shock", "surprise", "call"],
+            "priority": "MEDIUM"
+        },
+        {
+            "id": "rec_3",
+            "title": "FakeCall - محادثة فيديو وهمية",
+            "description": "تطبيق مكالمة فيديو احترافي",
+            "imageUrl": "https://cdn.yoursite.com/banner3.png",
+            "tags": ["video", "call", "chat", "fake"],
+            "priority": "HIGH"
+        }
+    ],
+    "settings": {
+        "interval": 1800000,
+        "maxPerDay": 5,
+        "minInterval": 300000,
+        "peakHours": {
+            "start": 18,
+            "end": 22
+        }
+    }
+} 
