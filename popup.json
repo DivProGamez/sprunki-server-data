@@ -1,0 +1,18 @@
+{
+    "show": true,
+    "icon": "https://divprogamez.github.io/sprunki-server-data/assets/gray.png",
+    "title": "عرض خاص!",
+    "text": "احصل على مزايا إضافية عند الترقية الآن",
+    "buyButton": {
+        "text": "اشترِ الآن",
+        "link": "https://www.amazon.com/dp/YOUR_APP_ID"
+    },
+    "exitButton": {
+        "text": "خروج"
+    },
+    "settings": {
+        "showInterval": 3600000,
+        "maxShowsPerDay": 3,
+        "minInterval": 1800000
+    }
+} 
