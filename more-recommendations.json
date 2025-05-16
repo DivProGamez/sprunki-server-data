@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    {
+      "id": "rec_4",
+      "title": "مكالمة مفاجئة",
+      "description": "جرب مكالمة جديدة الآن!",
+      "imageUrl": "assets/banner4.png",
+      "tags": ["new", "call", "fun"],
+      "priority": "LOW"
+    }
+  ]
+} 

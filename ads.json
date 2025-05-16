@@ -1,0 +1,10 @@
+{
+  "ads": [
+    {
+      "id": "ad1",
+      "image": "assets/ad1.png",
+      "link": "https://your-ad-link.com",
+      "text": "احصل على مزايا إضافية الآن!"
+    }
+  ]
+} 

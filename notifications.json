@@ -1,0 +1,11 @@
+{
+  "notifications": [
+    {
+      "id": "notif1",
+      "title": "جديد!",
+      "body": "تمت إضافة شخصيات جديدة في التطبيق.",
+      "image": "assets/notif1.png",
+      "actionLink": "https://your-app-link.com"
+    }
+  ]
+} 
