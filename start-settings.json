@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "title": "لعبة جديدة!",
+    "description": "جرب لعبتنا الجديدة المثيرة على Amazon Fire TV",
+    "iconUrl": "https://raw.githubusercontent.com/yourusername/fakecall/main/images/game-icon.png",
+    "amazonLink": "https://www.amazon.com/gp/product/YOUR_GAME_ID"
+} 
